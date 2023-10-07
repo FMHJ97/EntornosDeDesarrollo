@@ -7,6 +7,7 @@ public class HolaMundo {
 		System.out.println("Probando probando");
 		System.out.println("Adios Mundo Cruel!");
 		System.out.println("Añadimos nuevo cambio");
+		System.out.println("Cambio para José Ponf, para que haga las capturitas");
 	}
 
 }
